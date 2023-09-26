@@ -1,6 +1,6 @@
 /* Apply CSS to the grid container */
 .grid-container {
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -14,7 +14,7 @@
   width: 200px;
   border-radius: 5px;
   font-size: 40px;
-  display: flex;
+  display: grid;
   justify-content: center;
   align-items: center;
 }
